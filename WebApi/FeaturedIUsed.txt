@@ -1,0 +1,17 @@
+﻿Controllers:
+			-ApiController
+			-Get,Post,Put,Delete Action Controller
+
+Model Validation: 
+				-Model Validation with dataAnnotation
+
+Filters:
+		-ActionFilter:
+		-
+
+
+Routing:
+		-Attribute Routing
+		-
+Decoupling
+		-Decouple logic from technology
